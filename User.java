@@ -36,13 +36,12 @@
     }
 
     /** Returns the follows array. */
-    public String[] getFollows() {
-
+    public String[] getfFollows() {
         return follows;
     }
 
     /** Returns the number of users that this user follows. */
-    public int getCount() {
+    public int getfCount() {
         return fCount;
     }
 
